@@ -1,0 +1,24 @@
+---------------------
+Desktop
+---------------------
+✅
+
+General:
+[ ] playing around with design
+
+
+Header:
+[ ✅ ] Title
+[ ✅ ] Summary
+[ ] Profile Photo above Title
+[ ✅ ] Social Media Icons below summary (GitHub | LinkedIn)
+
+
+Featured Projects:
+[ ✅ ] Summary 
+[ ✅ ] Icon for Featured projects ? 
+[ ] Card / Project template 
+
+
+Suggestions:
+[ ] Divider between Header and Section 1 might look better
