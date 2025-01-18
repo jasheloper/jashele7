@@ -18,13 +18,18 @@ Featured Projects:
 [ ✅ ] Summary 
 [ ✅ ] Icon for Featured projects ? 
 [ ✅ ] Card / Project template 
-[ ] Card Content
+[ ] Project / Card Content
+    [ ] Silly Story 
+    [ ] JavaScript Image Gallery
+    [ ] Random colors - https://codepen.io/jt_1/pen/bGPBajB - will move into a repo , GIF for screenshot
+    [ ] Web Dev portfolio (add later when complete)
 [ ] Project GitHub content
  
 
 Suggestions:
 [ ] Divider between Header and Section 1 might look better
-
+[ ] Nav with anchors up top
+[ ] Maybe all project imgs should be GIFs - not sure yet
 
 
 ---------------------
