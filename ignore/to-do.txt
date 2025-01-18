@@ -1,5 +1,5 @@
 ---------------------
-Desktop
+Desktop:
 ---------------------
 ✅
 
@@ -17,8 +17,18 @@ Header:
 Featured Projects:
 [ ✅ ] Summary 
 [ ✅ ] Icon for Featured projects ? 
-[ ] Card / Project template 
-
+[ ✅ ] Card / Project template 
+[ ] Card Content
+[ ] Project GitHub content
+ 
 
 Suggestions:
 [ ] Divider between Header and Section 1 might look better
+
+
+
+---------------------
+Mobile:
+---------------------
+[ ] Title: adjust and make smaller
+[ ] Summary under title: maybe slightly smaller 
